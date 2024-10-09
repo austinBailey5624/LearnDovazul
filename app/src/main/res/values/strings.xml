@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Learn Dovazul</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="main_menu.title">Learn Dovazul</string>
+    <string name="main_menu.button1.label">Learn Alphabet</string>
+    <string name="main_menu.button2.label">Learn Words</string>
+    <string name="main_menu.button3.label">Word Walls</string>
+    <string name="main_menu.button4.label">Grammar</string>
+    <string name="main_menu.button5.label">Dragons and Shouts</string>
+    <string name="main_menu.button6.label">Translation practice</string>
+    <string name="main_menu.button7.label">Settings</string>
+    <string name="main_menu.button8.label">Credits and Resources</string>
+</resources>
