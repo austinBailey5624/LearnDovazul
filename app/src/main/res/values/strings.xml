@@ -10,4 +10,5 @@
     <string name="main_menu.button6.label">Translation practice</string>
     <string name="main_menu.button7.label">Settings</string>
     <string name="main_menu.button8.label">Credits and Resources</string>
+    <string name="learn_alphabet.label">Translate the following letter:</string>
 </resources>
